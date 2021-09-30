@@ -9,7 +9,7 @@
 ## WebApp: 
 > Link: https://census-income-prediction.herokuapp.com/
 ----
-![](Readme/WebApp.gif)
+![](ReadMe/WebApp.gif)
 ----
 
 ## Dataset:
@@ -32,7 +32,7 @@
 |     14    |     income     |   object  |   Discrete  |   Income category of person  |
 
 ----
-![](Readme/plot.png)
+![](ReadMe/plot.png)
 
 ## Motivation:
 - Building such predictive models can help us better understand the population of a country as well as the various factors affecting the growth in the economy.
